@@ -5,7 +5,7 @@ sometime it looks normal to human eye and we just read it with no problem .
 
 `This repo is providing code to jumble any file and analyze the results ^_~`
 
-<img width=600 src=https://github.com/rishabhjainfinal/some_random_projects/blob/main/Read%20Jumbled%20Words/example.png >
+<img width=600 src="https://github.com/rishabhjainfinal/word_jumbler/blob/main/example.png" >
 
 ### for more details  [link to the article](https://www.sciencealert.com/word-jumble-meme-first-last-letters-cambridge-typoglycaemia)
 
